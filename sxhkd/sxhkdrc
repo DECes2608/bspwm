@@ -5,10 +5,7 @@ super + d
 	rofi -show drun
 
 super + c
-	copyq
-
-super + alt + t
-	notify-send "Sistem Zamanı" "$(date '+%d %B %Y, %A %H:%M')"
+    copyq show
 
 super + b
 	zen-browser
@@ -17,7 +14,7 @@ super + m
 	spotify-launcher
 
 super + e
-	dolphin
+	thunar
 
 Print
 	maim -s | xclip -selection clipboard -t image/png
