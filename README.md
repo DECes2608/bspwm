@@ -1,5 +1,7 @@
 # bspwm
-🐧 My Minimal Dotfiles (i3 & bspwm)
+🐧 My Minimal Dotfiles bspwm
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb7acebd-e477-4471-a9e2-e2482249d178" />
+
 
 Bu depo, X11 üzerinde en yüksek performansı ve hızı hedefleyen kişisel yapılandırma dosyalarımı içerir. Şu an aktif olarak EndeavourOS üzerinde kullanılmaktadır.
 
