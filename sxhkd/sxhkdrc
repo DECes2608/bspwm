@@ -7,7 +7,16 @@ super + d
 super + c
     copyq show
 
+super + v
+	blueman-manager
+
 super + b
+	librewolf
+
+super + n 
+	obsidian
+
+super + shift + b
 	zen-browser
 
 super + m
@@ -30,6 +39,8 @@ super + shift + r
 
 super + q
 	bspc node -c
+super + space
+	bspc node -t floating
 
 super + {shift + t,s,f}
 	bspc node -t {pseudo_tiled,floating,fullscreen}
@@ -59,12 +70,6 @@ super + ctrl + {h,j,k,l}
 
 super + ctrl + {1-9}
 	bspc node -o 0.{1-9}
-
-super + ctrl + space
-	bspc node -p cancel
-
-super + ctrl + shift + space
-	bspc query -N -d | xargs -I id -n 1 bspc node id -p cancel
 
 super + alt + {h,j,k,l}
 	bspc node -z {left -20 0,bottom 0 20,top 0 -20,right 20 0}
