@@ -1,6 +1,7 @@
 # bspwm
 ##🐧 My Minimal Dotfiles bspwm
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc3481b1-5ca3-40a4-8d79-2fcd9461a9da" />
+<img width="1896" height="1076" alt="image" src="https://github.com/user-attachments/assets/75b2db21-06c2-496c-a0de-0ae71b1ca618" />
+
 
 
 
