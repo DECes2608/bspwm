@@ -1,6 +1,7 @@
 # bspwm
-🐧 My Minimal Dotfiles bspwm
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb7acebd-e477-4471-a9e2-e2482249d178" />
+##🐧 My Minimal Dotfiles bspwm
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc3481b1-5ca3-40a4-8d79-2fcd9461a9da" />
+
 
 
 Bu depo, X11 üzerinde en yüksek performansı ve hızı hedefleyen kişisel yapılandırma dosyalarımı içerir. Şu an aktif olarak EndeavourOS üzerinde kullanılmaktadır.
@@ -42,13 +43,9 @@ Super + q
 
 Pencereyi Kapat
 
-Super + Alt + t
-
-Tarih/Saat Bildirimi
-
 Super + b
 
-Zen Browser
+Librewolf
 
 Print
 
