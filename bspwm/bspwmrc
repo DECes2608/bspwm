@@ -29,6 +29,7 @@ bspc rule -a blueman-manager state=floating follow=on
 
 
 picom &
+xset b off &
 dunst &
 feh --bg-fill ~/wallpaper/forest.png &
 xsetroot -cursor_name left_ptr &
