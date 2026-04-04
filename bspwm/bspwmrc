@@ -22,12 +22,16 @@ bspc config gapless_monocle "#429af7"
 
 
 
-bspc rule -a zen-browser desktop='^2' follow=on
-bspc rule -a spotify-launcher desktop='^3' follow=on
+bspc rule -a "librewolf" desktop='^2' follow=on
+bspc rule -a "Spotify" desktop='^5' follow=on
+bspc rule -a "kitty" desktop='^1' follow=on
+bspc rule -a "obsidian" desktop='^3' follow=on
+bspc rule -a "Thunar" desktop='^4' follow=on
+
 bspc rule -a copyq state=floating follow=on
-bspc rule -a blueman-manager state=floating follow=on
+bspc rule -a "Blueman-manager" state=floating follow=on
 
-
+bitwarden &
 picom &
 xset b off &
 dunst &
