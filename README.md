@@ -24,7 +24,7 @@ Tema: Breeze-Dark (GTK2/3/4)
 Ayarları uygulamadan önce aşağıdaki temel araçların kurulu olduğundan emin olun:
 
 # Arch/EndeavourOS için
-sudo pacman -S bspwm sxhkd i3-wm kitty rofi feh dunst picom polybar xclip maim brightnessctl playerctl polkit-gnome xorg-set
+sudo pacman -S bspwm sxhkd kitty rofi feh dunst picom polybar xclip maim brightnessctl playerctl polkit-gnome xorg-xset xorg-xprop xorg-xrandr thunar lxappearance copyq
 
 ⌨️ Temel Kısayollar (Cheat Sheet)
 
