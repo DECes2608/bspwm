@@ -54,3 +54,6 @@ Not: Fare hızı ayarları bspwmrc içinde ID:10'a göre yapılmıştır. Kendi 
 
 ## Compfy için ufak bir açıklama
 Eğer sisteminiz çok iyi değil ve geçişler takılmalıysa shadow kısmını false yapın bu geçişleri rahatlatıcaktır ama yinede kasıyorsa bluru kısabilir yada kapatabilirsiniz
+
+### Compfy ve dunst confiğinin asıl sahibinin github'ı (çok güzel bir config çaban için teşekkürler)
+https://github.com/Prayag2/dotfiles
