@@ -1,5 +1,5 @@
 # bspwm
-##🐧 My Minimal Dotfiles bspwm
+## 🐧 My Minimal Dotfiles bspwm
 <img width="1918" height="1076" alt="image" src="https://github.com/user-attachments/assets/046378c8-4c0c-48ac-a87d-992b93dbead5" />
 
 
@@ -52,5 +52,5 @@ Seçili Alan Ekran Görüntüsü
 
 Not: Fare hızı ayarları bspwmrc içinde ID:10'a göre yapılmıştır. Kendi farenizin ID'sini xinput list ile kontrol edip güncellemeyi unutmayın.
 
-##compfy için ufak bir açıklama
-eğer sisteminiz çok iyi değil ve geçişler takılmalıysa shadow kısmını false yapın bu geçişleri rahatlatıcaktır ama yinede kasıyorsa bluru kısabilir yada kapatabilirsiniz
+## Compfy için ufak bir açıklama
+Eğer sisteminiz çok iyi değil ve geçişler takılmalıysa shadow kısmını false yapın bu geçişleri rahatlatıcaktır ama yinede kasıyorsa bluru kısabilir yada kapatabilirsiniz
