@@ -1,11 +1,11 @@
 # bspwm
 ##🐧 My Minimal Dotfiles bspwm
-<img width="1896" height="1076" alt="image" src="https://github.com/user-attachments/assets/75b2db21-06c2-496c-a0de-0ae71b1ca618" />
+<img width="1918" height="1076" alt="image" src="https://github.com/user-attachments/assets/046378c8-4c0c-48ac-a87d-992b93dbead5" />
 
 
 
 
-Bu depo, X11 üzerinde en yüksek performansı ve hızı hedefleyen kişisel yapılandırma dosyalarımı içerir. Şu an aktif olarak EndeavourOS üzerinde kullanılmaktadır.
+Bu depo, X11 üzerinde en yüksek performansı ve hızı hedefleyen kişisel yapılandırma dosyalarımı içerir. Şu an aktif olarak cachyos üzerinde kullanılmaktadır.
 
 🚀 Öne Çıkanlar
 
@@ -13,17 +13,15 @@ WM: bspwm
 
 Terminal: kitty
 
-Kabuk: zsh
+Kabuk: fish
 
 Font: JetBrainsMono Nerd Font
-
-Tema: Breeze-Dark (GTK2/3/4)
 
 🛠️ Kurulum ve Gereksinimler
 
 Ayarları uygulamadan önce aşağıdaki temel araçların kurulu olduğundan emin olun:
 
-# Arch/EndeavourOS için
+# Arch için
 sudo pacman -S bspwm sxhkd kitty rofi feh dunst picom polybar xclip maim brightnessctl playerctl polkit-gnome xorg-xset xorg-xprop xorg-xrandr thunar lxappearance copyq
 
 ⌨️ Temel Kısayollar (Cheat Sheet)
@@ -46,7 +44,7 @@ Pencereyi Kapat
 
 Super + b
 
-Librewolf
+Brave
 
 Print
 
