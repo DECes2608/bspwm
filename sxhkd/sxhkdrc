@@ -10,6 +10,12 @@ super + c
 super + v
 	blueman-manager
 
+super + p
+	nm-connection-editor
+
+super + x
+	code
+
 super + b
 	brave
 
