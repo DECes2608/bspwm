@@ -19,6 +19,7 @@ bspc config borderless_monocle   true
 bspc config gapless_monocle      true
 
 bspc config focus_follows_pointer true
+#bspc config pointer_follows_focus true
 
 
 
@@ -35,8 +36,9 @@ bspc rule -a "obsidian" desktop='^3'
 bspc rule -a "Thunar" desktop='^5' follow=on
 bspc rule -a "Nautilus" desktop='^5' follow=on
 bspc rule -a "firefox" desktop='^1' follow=on
-bspc rule -a "brave" desktop='^1' follow=on
+bspc rule -a "brave-browser" desktop='^1' follow=on
 
+bspc rule -a "Nm-connection-editor" state=floating follow=on
 bspc rule -a copyq state=floating follow=on
 bspc rule -a "Blueman-manager" state=floating follow=on
 
@@ -54,5 +56,5 @@ xsetroot -cursor_name left_ptr &
 numlockx on &
 copyq &
 xset r rate 200 35 &
-nmapplet &
+nm-applet &
 blueman-applet &
