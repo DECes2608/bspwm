@@ -22,7 +22,9 @@ Font: JetBrainsMono Nerd Font
 Ayarları uygulamadan önce aşağıdaki temel araçların kurulu olduğundan emin olun:
 
 # Arch için
-sudo pacman -S bspwm sxhkd kitty rofi feh dunst picom polybar xclip maim brightnessctl playerctl polkit-gnome xorg-xset xorg-xprop xorg-xrandr thunar lxappearance copyq
+sudo pacman -S bspwm sxhkd kitty rofi feh dunst polybar xclip maim brightnessctl playerctl polkit-gnome xorg-xset xorg-xprop xorg-xrandr thunar lxappearance copyq xorg-xsetroot lxsession network-manager-applet blueman numlockx base-devel git unzip ninja
+
+yay -S compfy helium-bin
 
 ⌨️ Temel Kısayollar (Cheat Sheet)
 
